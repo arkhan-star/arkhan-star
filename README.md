@@ -42,32 +42,13 @@ Currently deep-diving into:
 - AI automation experiments
 
 ---
-
 ## 📌 Featured Work (In Progress 🚧)
 
 - 🚀 CI/CD Pipeline with Docker + GitHub Actions
 - ☁️ Terraform AWS Infrastructure Lab
 - 🤖 AI Automation Playground
 - 🌐 Full-Stack Cloud Applications
-
 ---
-
-## 🎯 2026 Goals
-
-- Master multi-level Kubernetes implementations
-- Contribute to open-source cloud tooling
-- Launch a cloud-native SaaS project after working in leadership all these years! 
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/al-ridhaa-khan-265629b3
-- 📧 Email: alridhaakhan@gmail.com
-- 🌍 Portfolio: We getting there! 
-
----
-
 ## 🏅 Certifications
 
 <p align="left">
@@ -77,5 +58,18 @@ Currently deep-diving into:
 </p>
 
 AWS Certified Solutions Architect – Associate (SAA-C03)
+---
+## 🎯 2026 Goals
+
+- Master multi-level Kubernetes implementations
+- Contribute to open-source cloud tooling
+- Launch a cloud-native SaaS project after working in leadership all these years! 
+---
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/al-ridhaa-khan-265629b3
+- 📧 Email: alridhaakhan@gmail.com
+- 🌍 Portfolio: We getting there! 
+
 
 > Bridging enterprise strategy with hands-on engineering.
