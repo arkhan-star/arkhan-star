@@ -7,7 +7,7 @@
 
 I am a Cloud and DevOps engineer with a background in enterprise IT leadership and AI enablement.
 
-I design, build and optimise scalable cloud systems where I focus on automation, reliability and modern DevOps practices.
+I design, build, and optimise scalable cloud systems, focusing on automation, reliability, and modern DevOps practices.
 
 Currently deep-diving into:
 
@@ -76,7 +76,7 @@ AWS Certified Solutions Architect – Associate (SAA-C03)
 
 - 💼 LinkedIn: https://www.linkedin.com/in/al-ridhaa-khan-265629b3
 - 📧 Email: alridhaakhan@gmail.com
-- 🌍 Portfolio: We are getting there! 
+- 🌍 Portfolio: [We are getting there! ](https://al-ridhaa-khan.tech/)
 
 
 > Bridging enterprise strategy with hands-on engineering.
