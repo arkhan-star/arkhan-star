@@ -76,7 +76,7 @@ AWS Certified Solutions Architect – Associate (SAA-C03)
 
 - 💼 LinkedIn: https://www.linkedin.com/in/al-ridhaa-khan-265629b3
 - 📧 Email: alridhaakhan@gmail.com
-- 🌍 Portfolio: [We are getting there! ](https://al-ridhaa-khan.tech/)
+- 🌍 Portfolio: https://al-ridhaa-khan.tech
 
 
 > Bridging enterprise strategy with hands-on engineering.
